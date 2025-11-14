@@ -1,0 +1,6 @@
+path: /YOLO10/AnimalDetection/data
+train: images/train
+val: images/val
+
+names:
+ 1: dog
