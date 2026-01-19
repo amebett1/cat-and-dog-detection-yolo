@@ -1,6 +1,7 @@
-path: /YOLO10/AnimalDetection/data
+path: D:\Coding\YOLO10\AnimalDetection\data  
 train: images/train
 val: images/val
 
 names:
- 0: dog
+  0: cat
+  1: dog
