@@ -29,6 +29,7 @@ pip install ultralytics
 ## Usage
 ### 1. Training (Skippable)
 To train the model using the configuration specified in `config.yaml` and the `yolo11n.pt` weights. After that, run `train.py`.
+
 The dataset I used to train: `https://www.kaggle.com/datasets/andrewmvd/dog-and-cat-detection` (The first 70% are used to train, the rest are used for validation)
 
 
