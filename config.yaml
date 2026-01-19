@@ -1,4 +1,4 @@
-path: D:\Coding\YOLO10\AnimalDetection\data  
+path: D:\Coding\YOLO\cat-and-dog-detection\cat-and-dog-detection-yolo\data  #images & txt data path (Change the directory based on your working space)
 train: images/train
 val: images/val
 
